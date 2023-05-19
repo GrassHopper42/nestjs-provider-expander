@@ -1,0 +1,34 @@
+{
+  "name": "nestjs-provider-expander",
+  "version": "0.0.1",
+  "description": "Expand NestJS Provider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrassHopper42/nestjs-provider-expander.git"
+  },
+  "keywords": [
+    "nestjs"
+  ],
+  "author": "Hwanseok Yu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GrassHopper42/nestjs-provider-expander/issues"
+  },
+  "homepage": "https://github.com/GrassHopper42/nestjs-provider-expander#readme",
+  "peerDependencies": {
+    "@nestjs/common": "^7.0.0"
+  },
+  "devDependencies": {
+    "@nestjs/common": "^9.1.4",
+    "@types/node": "^16.18.31",
+    "@types/jest": "28.1.8",
+    "@typescript-eslint/eslint-plugin": "^5.59.6",
+    "@typescript-eslint/parser": "^5.59.6",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint": "^8.40.0",
+    "jest": "28.1.3",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4"
+  }
+}
